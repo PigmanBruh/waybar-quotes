@@ -19,6 +19,14 @@ waybar -c ~/.config/waybar-quotes/config.jsonc -s ~/.config/waybar-quotes/style.
 The font i personally use here is [Outfit](https://fonts.google.com/specimen/Outfit)
 
 ### todos :
+- rename to wayquotes
 - add official support for eww
 - add more blue archive quotes
 - separate starting script and make it work with both eww and waybar
+- unify functions into one script file
+```
+mockup thing :
+-w to start waybar and reroll
+-e to start eww widget and reroll
+-r to only reroll
+```
