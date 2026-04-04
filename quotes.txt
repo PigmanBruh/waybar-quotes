@@ -12,8 +12,20 @@
 "Kuuyaashiii..." - Momoi
 "buruu... archaifuu..." - Title Screen
 
-# BA Fandom
+# BA Community
 "Never kill yourself" - Shoori
+
+# Stella Sora
+"I thought the wind had brought me a breezy new scent... But in fact, it was you" - Shia
+"Hmm, smells like a lie!" - Shia
+"Well, if you're not going to give me any attention, I guess i'll have to make the first move!" - Shia
+"Ah, the night air, the moonlight sparkling on the waves... We'll never forget this moment, will we?" - Shia
+"I was supposed to be the one cheering Shia up. Instead I got hooked on surfing..." - The Boss
+"Oh wow...?! I thought she would smell like the ocean, but I never expected..." - The Boss
+"Yup! We witches just live to uncover secrets and feast on the truths within. And you... You smell absolutely delicious." - Mistique
+"Ugh, Neither. My morning sleep is sacred." - The Boss
+"But the only thing I want is for you to turn into a cute girl." - The Boss
+
 
 # ULTRAKILL
 "BEHOLD, THE POWER OF AN ANGEL!" - Gabriel
@@ -27,37 +39,6 @@
 "TIME TO RIGHT MY WRONG!" - Gabriel
 "I SHOW YOU DIVINE JUSTICE! - Gabriel
 "This will hurt" - Sisyphus Prime
-
-# Modern Warfare (OG)
-"Soap trusted you, i thought i could too" - Captain Price
-"5 years ago, i lost 30,000 men in the blink of an eye" - General Shepherd
-"Nice!, your fruit killing skill are remarkable" - Gaz
-"Remember, switching to your pistol is always faster than reloading" - Gaz
-"On your feet soldier, we are leaving!" - Captain Price
-"Patience, don't do anything stupid" - Captain MacMillan
-"RAMIREZ!!!" - Sgt. Foley
-"Remember, No Russian" - Makarov
-"This is it, Makarov doesn't leave here alive" - Captain Price
-"The more things change, the more they stay the same." - General Shepherd
-"We are the most powerful military force in the history of man. Every fight is our fight." - General Shepherd
-"This man Makarov is fighting his own war and he has no rules. No boundaries." - General Shepherd
-"Do you have the DSM?. Good, that's one less loose end." - General Shepherd
-"You know what they say about revenge: you better be ready to dig two graves." - General Shepherd
-"Right... what the hell kind of name is "Soap", eh? How'd a muppet like you pass selection?" - Captain Price
-"Do not trust Shepherd! I say again, do not trust Shepherd!" - Captain Price
-"Makarov, you ever hear the old saying: "the enemy of my enemy is my friend"?" - Captain Price
-"Price, one day you're going to find that cuts both ways." - Makarov
-"Looking forward to it. Give my regards to Imran Zakhaev if you get there first." - Captain Price
-"This is for the record. History is written by the victor. History is filled with liars." - Captain Price
-"Shepherd will be a hero, 'cause all you need to change the world is one good lie and a river of blood." - Captain Price
-"Shepherd created a war, but only we knew the truth." - Captain Price
-"The only truth I found is that the world we live in is a giant tinderbox." - Captain Price
-"What you taught me to do, kill 'em all" - Captain Price
-"How quickly they forget that all it takes to change the course of history, is the will of a single man." - Captain Price
-"This is for Soap." - Captain Price
-
-# Black Ops Cold War
-"I'm a goddamn onion, Mason" - Woods
 
 # Minecraft
 "Wake up" - Minecraft End Poem
@@ -81,11 +62,6 @@
 "Vanilla!" - Minecraft
 "Technoblade never dies!" - Minecraft
 
-# God of War
-"Zeus, ZEUS!!!" - Kratos
-"There are consequences of killing a god!" - Kratos
-"Zeus, your son has returned, i bring the destruction of Olympus!" - Kratos
-
 # Mortal Kombat
 "I must consult with the Elder Gods" - Raiden
 
@@ -107,17 +83,13 @@
 "Funny animation compositor woo" - Hyprland
 
 
-# My Own
+# me
 "Discord calls will be redirected to /dev/null" - Waylake
 "I have learned blender, and i will use the entire blender" - Waylake
-"There's a reason why my username is WaylakeAnimations, not WaylakeArts" - Waylake
-"Well, this is official, i'm a Blue Archive content creator now" - Waylake
-"And here i am casually naming my creator club after a sword from Hypixel Skyblock" - Waylake
-"Not affiliated with the Github user with the username 'waylake'" - WaylakeAnimations
-"Dear github.com/waylake, if you read this then... GG" - WaylakeAnimations
-"New week, new Linux-related vulnerability" - Waylake
+"What is hominem and why does it have ads?" - Waylake
+"I was wondering umm... what's the wecommended amount of dedotated wam i should have to run hyprland" - Waylake
+"|     |l     ||     |_" - Waylake
 
 # Misc
-"I've bought the speedometer, and i will use the entire speedometer" - Unknown
+"I bought the speedometer and i will use the entire speedometer" - Unknown
 "This incident will be reported" - sudo
-

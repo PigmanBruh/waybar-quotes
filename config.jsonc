@@ -2,6 +2,7 @@
     "layer": "bottom",
     "position": "top",
     "spacing": 4,
+    "id": "waybar-quotes",
     "exclusive": false,
     "modules-left": [],
     "modules-center": ["custom/quote"],
